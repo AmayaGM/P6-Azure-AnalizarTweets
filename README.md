@@ -43,7 +43,6 @@
 
 - Iniciar sesion en twitter
     ![Paso 2.10](imagenes/img2_10.png)
-    ![Paso 2.10.1](imagenes/img2_10_1.png)
 
 - LLenar el formulario con los datos correspondientes 
   - Texto de busqueda (poner el # que queremos analizar)
