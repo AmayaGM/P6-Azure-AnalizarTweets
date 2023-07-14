@@ -41,19 +41,19 @@
 - Buscar y elegir Twitter. Posteriormente presionar en cuando se publica un nuevo tweet
     ![Paso 2.9.1](imagenes/img2_9.png)
 
-- Iniciar sesion en twitter
+- Iniciar sesión en twitter
     ![Paso 2.10](imagenes/img2_10.png)
 
 - LLenar el formulario con los datos correspondientes 
   - Texto de busqueda (poner el # que queremos analizar)
-  - Especificar el intervalo de tiempo con el que queremos que analise (en este caso cada 5 seg)
+  - Especificar el intervalo de tiempo con el que queremos que analice (en este caso cada 5 seg)
 ![Paso 2.11](/imagenes/img2_11.png)
   - Al finalizar dar en nuevo paso
 
 - Ingresamos en el buscador la palabra "text" y elegimos Azure cognitive
 ![Paso 2.12](/imagenes/img2_12.png)
 
-- Despues elegimos sentimiento
+- Despues elegimos sentimientos
 ![Paso 2.13](/imagenes/img2_13.png)
 
 >Nota: Ir al paso 3 cognitive services
@@ -68,14 +68,14 @@
 ![Paso 2.16](/imagenes/img2_16.png)
 ![Paso 2.16.1](/imagenes/img2_16_1.png)
 
-- Iniciamos sesion en google
+- Iniciamos sesión en google
 ![Paso 2.17](/imagenes/img2_17.png)
 
 - Elegimos una hoja de calculo creada previamente en google drive, a continucacion ligamos cada fila con su contenido y agregamos un paso
 ![Paso Hc](/imagenes/img_hc_.png)
 ![Paso 2.18](/imagenes/img2_18.png)
 
-- Escogemos la opcion "publicar mensaje en un chat o  canal" e iniciamos sesion en nuetsro teams
+- Escogemos la opcion "publicar mensaje en un chat o  canal" e iniciamos sesión en nuestro teams
 ![Paso 2.19](/imagenes/img2_19.png)
 
 - LLenamos las casillas correspondientes y guardamos lo que hemos realizado
